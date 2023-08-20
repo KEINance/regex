@@ -28,7 +28,8 @@ Quantifiers to specify the amount of times an element is matched throughout the 
 A few ways to incorporate quantifiers is ``+`` for the connection of two or more pieces of code 
 Example: `` firstName + lastName + .com ``
 ### Grouping Constructs 👨‍👩‍👦‍👦
-
+Grouping constructs `` () `` controls the evaluation of the contained expressions used in the code lines. 
+Example: `` ([a-zA-Z0-9\._]+)@([a-zA-Z0-9])+. ([a-z]+)(. [a-z]+) ``
 ### Bracket Expressions 😬
 
 ### Character Classes 👨‍🏫
