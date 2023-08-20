@@ -45,7 +45,8 @@ Example: `` const pets = /cat|dog/ ``
 Flags are a regexpression which consists of the parameters `` ('pattern', 'flags' ); `` 
 This can also be coded out with `` / ``, the difference in the syntax being that  `` / `` does not allow for expressions to be used in string literals `` ${...} `` 
 ### Character Escapes 🏃🏻‍♀️
-
+Character excapes simply being the use pf a  `` \ `` for use of excaping a coding sequence or specific character/special character.
+Example:  `` \a `` , ``\.``
 ## Author ✍🏼
 
 Starting out as an entry-level coder and aspiring developer; I have started work through: HTML, CSS, JavaScript, and more through the BootCamp at UNC-Charlotte. I am progressing my working knowledge of multiple languages past the directive of the BootCamp, also by continuing to strengthen my abilities.
