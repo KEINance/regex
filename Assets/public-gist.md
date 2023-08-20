@@ -31,7 +31,8 @@ Example: `` firstName + lastName + .com ``
 Grouping constructs `` () `` controls the evaluation of the contained expressions used in the code lines. 
 Example: `` ([a-zA-Z0-9\._]+)@([a-zA-Z0-9])+. ([a-z]+)(. [a-z]+) ``
 ### Bracket Expressions 😬
-
+Bracket expressions these indicate a specific set of listed characters to be matched `` [abc] `` ``[ABC] ``
+The `` ^ `` can be used to negate the code listed in the brackets.
 ### Character Classes 👨‍🏫
 
 ### The OR Operator 🔧
