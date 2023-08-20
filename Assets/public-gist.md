@@ -34,7 +34,10 @@ Example: `` ([a-zA-Z0-9\._]+)@([a-zA-Z0-9])+. ([a-z]+)(. [a-z]+) ``
 Bracket expressions these indicate a specific set of listed characters to be matched `` [abc] `` ``[ABC] ``
 The `` ^ `` can be used to negate the code listed in the brackets.
 ### Character Classes 👨‍🏫
-
+Character classes or character set is used for matching one out of serveral characters. Using the bracket expression to list the characters specifically to be searched.
+These are very commonly used.
+Example: This code snippet would match any letter or integer
+`` /[a-zA-Z0-9]/ ``
 ### The OR Operator 🔧
 
 ### Flags 🏳️
