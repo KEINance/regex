@@ -39,7 +39,8 @@ These are very commonly used.
 Example: This code snippet would match any letter or integer
 `` /[a-zA-Z0-9]/ ``
 ### The OR Operator 🔧
-
+OR operator is quite simply an "or" expression, expressed by a `` | `` in code lines. 
+Example: `` const pets = /cat|dog/ ``
 ### Flags 🏳️
 
 ### Character Escapes 🏃🏻‍♀️
