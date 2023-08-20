@@ -9,14 +9,14 @@ Using this informative RegEx gist the reader will then have an understanding of 
 
 ## Table of Contents
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [Grouping Constructs](#grouping-constructs)
-- [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
-- [Character Escapes](#character-escapes)
+- [Anchors](#anchors-⚓)
+- [Quantifiers](#quantifiers-☝️)
+- [Grouping Constructs](#grouping-constructs-👨‍👩‍👦‍👦)
+- [Bracket Expressions](#bracket-expressions-😬)
+- [Character Classes](#character-classes-👨‍🏫)
+- [The OR Operator](#the-or-operator-🔧)
+- [Flags](#flags-🏳️)
+- [Character Escapes](#character-escapes-🏃🏻‍♀️)
 
 ## Regex Components ⚙️ :
 
