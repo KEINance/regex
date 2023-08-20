@@ -42,7 +42,8 @@ Example: This code snippet would match any letter or integer
 OR operator is quite simply an "or" expression, expressed by a `` | `` in code lines. 
 Example: `` const pets = /cat|dog/ ``
 ### Flags 🏳️
-
+Flags are a regexpression which consists of the parameters `` ('pattern', 'flags' ); `` 
+This can also be coded out with `` / ``, the difference in the syntax being that  `` / `` does not allow for expressions to be used in string literals `` ${...} `` 
 ### Character Escapes 🏃🏻‍♀️
 
 ## Author ✍🏼
