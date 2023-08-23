@@ -28,16 +28,12 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
- your tutorial does not render to the browser as Markdown,
-
-while I do see a table of contents in the tutorial it does not function as intended, 
-
-
-
 ## Links
 
-GITHUB:
-https://github.com/KEINance
+[GitHub](https://github.com/KEINance)
 
-Repo:
-https://github.com/KEINance/regex
+[GitHub Gist](https://gist.github.com/KEINance/8d018e728af0c3973f6cf1f64118dfdc)
+
+[Repo Link](https://github.com/KEINance/regex)
+
+[Deployed Link](https://keinance.github.io/regex/)
