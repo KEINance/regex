@@ -10,6 +10,10 @@ I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 ```
 
+## Description
+
+This gist will be informational for reader to gather information towards matching email in their code.
+
 ## Acceptance Criteria
 
 ```md
@@ -23,3 +27,17 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+
+ your tutorial does not render to the browser as Markdown,
+
+while I do see a table of contents in the tutorial it does not function as intended, 
+
+
+
+## Links
+
+GITHUB:
+https://github.com/KEINance
+
+Repo:
+https://github.com/KEINance/regex

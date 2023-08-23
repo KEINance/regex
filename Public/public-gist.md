@@ -51,11 +51,13 @@ Example:  `` \a `` , ``\.``
 
 Starting out as an entry-level coder and aspiring developer; I have started work through: HTML, CSS, JavaScript, and more through the BootCamp at UNC-Charlotte. I am progressing my working knowledge of multiple languages past the directive of the BootCamp, also by continuing to strengthen my abilities.
 
-[GitHub](#https://github.com/KEINance)
+[GitHub](https://github.com/KEINance)
 
-[Repo Link](#https://github.com/KEINance/regex)
+[GitHub Gist](https://gist.github.com/KEINance/8d018e728af0c3973f6cf1f64118dfdc)
 
-[Deployed Link](#https://keinance.github.io/regex/)
+[Repo Link](https://github.com/KEINance/regex)
+
+[Deployed Link](https://keinance.github.io/regex/)
 
 ## Mentions
-[Emoji Icons](#https://emojidb.org/components-emojis?user_typed_query=1&utm_source=user_search)
+[Emoji Icons](https://emojidb.org/components-emojis?user_typed_query=1&utm_source=user_search)
